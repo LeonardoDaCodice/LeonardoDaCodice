@@ -51,7 +51,9 @@ Unisco <b>ingegneria, logica e creatività</b> per creare sistemi intelligenti.<
 ---
 
 <h3 align="center" style="color:#DCC29A;">
-Ogni problema é un invito a scoprire la sua soluzione
+❝ <i>Ogni problema è un invito a scoprire la sua soluzione</i> ❞
 </h3>
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A57,100:0D0D0D&height=120&section=footer"/>
