@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1B3A57,100:0D0D0D&text=Salve%2C%20sono%20LeonardoDaCodice&fontColor=DCC29A&fontSize=40&desc=AI%20•%20Data%20Science%20•%20Software%20Engineering&descAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1B3A57,100:0D0D0D&text=Salve%2C%20sono%20LeonardoDaCodice&fontColor=DCC29A&fontSize=40&desc=AI%20•%20Data%20Science%20•%20Software%20Engineering&descAlign=50&fontAlignY=45"
+    width="100%"
+    alt="header"
+  />
 </p>
 
 <div align="center">
@@ -21,7 +25,11 @@ Unisco <b>ingegneria, logica e creatività</b> per creare sistemi intelligenti.<
 <div align="center">
 
 <table style="color:#DCC29A;">
-  <tr><td>⚙️</td><td><b>Working on</b></td><td>GreenField Advisor (AI + IoT)</td></tr>
+  <tr>
+    <td>⚙️</td>
+    <td><b>Working on</b></td>
+    <td>GreenField Advisor (AI + IoT)</td>
+  </tr>
 </table>
 
 </div>
@@ -33,21 +41,35 @@ Unisco <b>ingegneria, logica e creatività</b> per creare sistemi intelligenti.<
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=LeonardoDaCodice&show_icons=true&theme=transparent&title_color=DCC29A&icon_color=B08A60&text_color=DCC29A">
-  <img src="https://github-readme-stats-six-seven.vercel.app/api?username=LeonardoDaCodice&show_icons=true" width="520"
->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-six-seven.vercel.app/api?username=LeonardoDaCodice&show_icons=true&count_private=true&theme=transparent&title_color=DCC29A&icon_color=B08A60&text_color=DCC29A"
+  />
+  <img
+    src="https://github-readme-stats-six-seven.vercel.app/api?username=LeonardoDaCodice&show_icons=true&count_private=true&theme=transparent&title_color=DCC29A&icon_color=B08A60&text_color=DCC29A"
+    width="520"
+    alt="GitHub Stats"
+  />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=LeonardoDaCodice&langs_count=6&size_weight=0&count_weight=1&theme=transparent&title_color=DCC29A&text_color=DCC29A">
-  <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=LeonardoDaCodice&langs_count=6&size_weight=0&count_weight=1" width="520" alt="Top Languages">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=LeonardoDaCodice&langs_count=6&size_weight=0&count_weight=1&theme=transparent&title_color=DCC29A&text_color=DCC29A"
+  />
+  <img
+    src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=LeonardoDaCodice&langs_count=6&size_weight=0&count_weight=1&theme=transparent&title_color=DCC29A&text_color=DCC29A"
+    width="520"
+    alt="Top Languages"
+  />
 </picture>
-
-
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoDaCodice&theme=transparent&ring=DCC29A&fire=B08A60&currStreakLabel=DCC29A" width="520"
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoDaCodice&theme=transparent&ring=DCC29A&fire=B08A60&currStreakLabel=DCC29A"
+  width="520"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -58,6 +80,8 @@ Unisco <b>ingegneria, logica e creatività</b> per creare sistemi intelligenti.<
 ❝ <i>Ogni problema è un invito a scoprire la sua soluzione</i> ❞
 </h3>
 
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A57,100:0D0D0D&height=120&section=footer"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A57,100:0D0D0D&height=120&section=footer"
+  alt="footer"
+/>
