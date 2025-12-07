@@ -76,6 +76,8 @@ Unisco <b>ingegneria, logica e creatività</b> per creare sistemi intelligenti.<
 
 ---
 
+<br>
+
 <h3 align="center" style="color:#DCC29A;">
 ❝ <i>Ogni problema è un invito a scoprire la sua soluzione</i> ❞
 </h3>
