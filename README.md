@@ -34,17 +34,21 @@ Unisco <b>ingegneria, logica e creatività</b> per creare sistemi intelligenti.<
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=LeonardoDaCodice&show_icons=true&theme=transparent&title_color=DCC29A&icon_color=B08A60&text_color=DCC29A">
-  <img src="https://github-readme-stats-six-seven.vercel.app/api?username=LeonardoDaCodice&show_icons=true" height="200px">
+  <img src="https://github-readme-stats-six-seven.vercel.app/api?username=LeonardoDaCodice&show_icons=true" width="520"
+>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=LeonardoDaCodice&layout=compact&theme=transparent&title_color=DCC29A&text_color=DCC29A">
-  <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=LeonardoDaCodice&layout=compact" height="200px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=LeonardoDaCodice&langs_count=6&size_weight=0&count_weight=1&theme=transparent&title_color=DCC29A&text_color=DCC29A">
+  <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=LeonardoDaCodice&langs_count=6&size_weight=0&count_weight=1" width="520" alt="Top Languages">
 </picture>
+
+
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoDaCodice&theme=transparent&ring=DCC29A&fire=B08A60&currStreakLabel=DCC29A" height="200px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoDaCodice&theme=transparent&ring=DCC29A&fire=B08A60&currStreakLabel=DCC29A" width="520"
+/>
 
 </div>
 
