@@ -64,14 +64,12 @@ Unisco <b>ingegneria, logica e creatività</b> per creare sistemi intelligenti.<
   />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=LeonardoDaCodice&theme=transparent&ring=DCC29A&fire=B08A60&currStreakLabel=DCC29A&hide_border=true&cache_seconds=86400" />
+
   <img
     src="https://streak-stats.demolab.com/?user=LeonardoDaCodice&theme=transparent&ring=DCC29A&fire=B08A60&currStreakLabel=DCC29A&hide_border=true&cache_seconds=86400"
     width="520"
     alt="GitHub Streak"
   />
-</picture>
 
 
 
