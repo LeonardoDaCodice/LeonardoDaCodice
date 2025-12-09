@@ -64,13 +64,14 @@ Unisco <b>ingegneria, logica e creatività</b> per creare sistemi intelligenti.<
   />
 </picture>
 
-<br>
-
+<picture>
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoDaCodice&theme=transparent&ring=DCC29A&fire=B08A60&currStreakLabel=DCC29A"
   width="520"
   alt="GitHub Streak"
 />
+</picture>
+
 
 </div>
 
